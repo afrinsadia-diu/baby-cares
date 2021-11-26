@@ -1,0 +1,10 @@
+/** @format */
+
+.about_content h3 {
+  font-size: 35px;
+  font-weight: 600;
+}
+.about_content p {
+  font-size: 14px;
+  color: gray;
+}
